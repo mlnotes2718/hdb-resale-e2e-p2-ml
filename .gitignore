@@ -1,3 +1,12 @@
+# This is a template for Python .gitignore files.
+# It is meant to be used as a starting point for Python projects.
+# It is not meant to be a complete list of all files that should be ignored.
+
+# macOS Finder files
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
